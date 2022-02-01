@@ -1,1 +1,1 @@
-# Classification-on-Titanic-Dataset
+# Titanic Survival Prediction
